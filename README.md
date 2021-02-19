@@ -1,0 +1,2 @@
+# Paypal
+PayPal Holding, Inc. is an american company operating an online payments system in the majority  countries that support online money transfers, and serves as an electronic alternatives to traditional paper methods like checks and money orders. The company opreats as a payments processor for online vendors, auction sites, and many other commercial users. It charges fee in exchange for benifits such as one- click transactions and password memory.
